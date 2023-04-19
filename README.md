@@ -1,7 +1,7 @@
 # MyPythonRepos
 Contains my Python projects.
 
-This ropository records the three solutions I coded during the time I tried to solve the Sudoku game.
+This ropository records the three solutions to the Sudoku game.
 1. numpy_sqlite: My first but least efficient way. 
   Use Sqlite database and numpy package to accelerate enumeration of possible permutations.
   Then use Query statements to fetch data and filter the rows until find the final answer.
